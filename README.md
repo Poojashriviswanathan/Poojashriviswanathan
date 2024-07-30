@@ -2,7 +2,9 @@
 
 Aspiring Full Stack Developer and Data Analyst passionate about leveraging technology to solve real-world problems. I have a solid background in Artificial Intelligence and Data Science, and I am eager to continue expanding my skill set and contributing to impactful projects.
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile&image=https://9in.pinterest.com/pin/8936899253071467/
+)
+
 
 ## 📝 Career Objectives
 
